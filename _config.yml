@@ -56,9 +56,9 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: 
-  juejin: 
-  instagram: 
+  weibo: ''
+  zhihu: 'https://www.zhihu.com/people/sun-ming-ze-28' 
+  email: 'mingze123@126.com'
   github: '//github.com/sunmingze'
 
 # Tags 设置标签
